@@ -3,7 +3,7 @@
 namespace Rappasoft\LaravelLivewireTables\Tests\Views\Filters;
 
 use DateTime;
-use Illuminate\Database\Eloquent\Builder;
+use MongoDB\Laravel\Eloquent\Builder;
 use Rappasoft\LaravelLivewireTables\Views\Filters\DateTimeFilter;
 
 final class DateTimeFilterTest extends FilterTestCase

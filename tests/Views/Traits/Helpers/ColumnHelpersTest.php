@@ -3,7 +3,7 @@
 namespace Rappasoft\LaravelLivewireTables\Tests\Views\Traits\Helpers;
 
 use Closure;
-use Illuminate\Database\Eloquent\Builder;
+use MongoDB\Laravel\Eloquent\Builder;
 use Rappasoft\LaravelLivewireTables\Tests\TestCase;
 use Rappasoft\LaravelLivewireTables\Views\Column;
 

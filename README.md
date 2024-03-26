@@ -1,3 +1,5 @@
+Forket from rappasoft/laravel-livewire-tables to use driver db mongodb/laravel-mongodb
+
 ![Package Logo](https://banners.beyondco.de/Laravel%20Livewire%20Tables.png?theme=light&packageName=rappasoft%2Flaravel-livewire-tables&pattern=hideout&style=style_1&description=A+dynamic+table+component+for+Laravel+Livewire&md=1&fontSize=100px&images=table)
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/rappasoft/laravel-livewire-tables.svg?style=flat-square)](https://packagist.org/packages/rappasoft/laravel-livewire-tables)
@@ -39,7 +41,7 @@ See the [documentation](https://rappasoft.com/docs/laravel-livewire-tables) for 
 namespace App\Http\Livewire\Admin\User;
 
 use App\Domains\Auth\Models\User;
-use Illuminate\Database\Eloquent\Builder;
+use MongoDB\Laravel\Eloquent\Builder;
 use Rappasoft\LaravelLivewireTables\DataTableComponent;
 use Rappasoft\LaravelLivewireTables\Views\Column;
 
