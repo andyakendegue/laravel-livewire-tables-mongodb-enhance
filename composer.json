@@ -1,20 +1,26 @@
 {
-    "name": "rappasoft/laravel-livewire-tables",
+    "name": "dndarksan/laravel-livewire-tables-mongodb",
     "description": "A dynamic table component for Laravel Livewire",
     "keywords": [
         "rappasoft",
         "livewire",
         "datatables",
         "tables",
-        "laravel"
+        "laravel",
+        "mongodb"
     ],
-    "homepage": "https://github.com/rappasoft/laravel-livewire-tables",
+    "homepage": "https://github.com/dndarksan/laravel-livewire-tables-mongodb",
     "license": "MIT",
     "authors": [
         {
             "name": "Anthony Rappa",
             "email": "rappa819@gmail.com",
             "role": "Developer"
+        },
+        {
+            "name": "Luis Chavez",
+            "email": "dndarksan@gmail.com",
+            "role": "Developer (Fork Editor)"
         }
     ],
     "require": {
