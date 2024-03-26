@@ -24,7 +24,7 @@ A dynamic Laravel Livewire component for data tables.
 You can install the package via composer:
 
 ``` bash
-composer require dndarksan/laravel-livewire-tables-mongodb
+composer require dndarksan/laravel-livewire-tables-mongodb "dev-master"
 ```
 
 You must also have [Alpine.js](https://alpinejs.dev) version 3 or greater installed and available to the component.
