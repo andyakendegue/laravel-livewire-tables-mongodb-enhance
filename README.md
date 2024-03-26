@@ -1,4 +1,4 @@
-Forket from rappasoft/laravel-livewire-tables to use driver db mongodb/laravel-mongodb
+Forked from rappasoft/laravel-livewire-tables to use driver db mongodb/laravel-mongodb
 
 ![Package Logo](https://banners.beyondco.de/Laravel%20Livewire%20Tables.png?theme=light&packageName=rappasoft%2Flaravel-livewire-tables&pattern=hideout&style=style_1&description=A+dynamic+table+component+for+Laravel+Livewire&md=1&fontSize=100px&images=table)
 
