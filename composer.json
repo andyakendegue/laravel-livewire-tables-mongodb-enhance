@@ -1,5 +1,5 @@
 {
-    "name": "dndarksan/laravel-livewire-tables-mongodb",
+    "name": "essaka/laravel-livewire-tables-mongodb",
     "description": "A dynamic table component for Laravel Livewire",
     "keywords": [
         "rappasoft",
@@ -9,7 +9,7 @@
         "laravel",
         "mongodb"
     ],
-    "homepage": "https://github.com/dndarksan/laravel-livewire-tables-mongodb",
+    "homepage": "https://github.com/andyakendegue/laravel-livewire-tables-mongodb-enhance",
     "license": "MIT",
     "authors": [
         {
@@ -20,6 +20,11 @@
         {
             "name": "Luis Chavez",
             "email": "dndarksan@gmail.com",
+            "role": "Developer (Fork Editor)"
+        },
+        {
+            "name": "Capp Andy AKENDENGUE",
+            "email": "andymigoumbi@gmail.com",
             "role": "Developer (Fork Editor)"
         }
     ],
